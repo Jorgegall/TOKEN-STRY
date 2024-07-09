@@ -1,0 +1,12 @@
+{
+    "name": "Strunery",
+    "symbol": "STNYY",
+    "description": "STRUNERY TOKEN",
+    "image": "https://github.com/Jorgegall/strunerytoken/blob/76101b5ef46cd01a75bc7c48bf81afe9079e13f6/STRUNERY%20SOL.png",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "STRUNERY TOKEN"
+      }
+    ]
+  }
